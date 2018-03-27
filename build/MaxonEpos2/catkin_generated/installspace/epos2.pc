@@ -1,0 +1,8 @@
+prefix=/home/bot_ws/install
+
+Name: epos2
+Description: Description of epos2
+Version: 0.0.0
+Cflags: -I/home/bot_ws/install/include
+Libs: -L/home/bot_ws/install/lib 
+Requires: 

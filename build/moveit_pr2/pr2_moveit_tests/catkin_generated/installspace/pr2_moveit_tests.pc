@@ -1,0 +1,8 @@
+prefix=/home/bot_ws/install
+
+Name: pr2_moveit_tests
+Description: Description of pr2_moveit_tests
+Version: 0.6.6
+Cflags: 
+Libs: -L/home/bot_ws/install/lib 
+Requires: 

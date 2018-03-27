@@ -1,0 +1,8 @@
+prefix=/home/bot_ws/devel
+
+Name: pr2_moveit_plugins
+Description: Description of pr2_moveit_plugins
+Version: 0.6.6
+Cflags: 
+Libs: -L/home/bot_ws/devel/lib 
+Requires: moveit_core

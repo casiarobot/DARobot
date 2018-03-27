@@ -1,0 +1,2 @@
+MaxonEpos2:openni2_camera/openni2_camera:openni2_camera/openni2_launch
+-DCATKIN_DEVEL_PREFIX=/home/bot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bot_ws/install -G Unix Makefiles

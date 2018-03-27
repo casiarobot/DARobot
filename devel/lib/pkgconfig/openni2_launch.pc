@@ -1,0 +1,8 @@
+prefix=/home/bot_ws/devel
+
+Name: openni2_launch
+Description: Description of openni2_launch
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/bot_ws/devel/lib 
+Requires: 
